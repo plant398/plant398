@@ -2,7 +2,7 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-   <key>ÒÆ¶¯¹ñÔ±ÖÕ¶Ë</key>
+   <key>ç§»åŠ¨æŸœå‘˜ç»ˆç«¯</key>
    <array>
        <dict>
            <key>assets</key>
@@ -11,7 +11,7 @@
                    <key>kind</key>
                    <string>software-package</string>
                    <key>url</key>
-                   <string>http://222.177.4.242/download?attachId=022DB5EAF88A57B175D24060DCD1BA70</string>
+                   <string>https://raw.githubusercontent.com/plant398/plant398/master/a.ipa</string>
                </dict>
                <dict>
                    <key>kind</key>
@@ -38,9 +38,9 @@
                <key>kind</key>
                <string>software</string>
                <key>subtitle</key>
-               <string>ÒÆ¶¯¹ñÔ±</string>
+               <string>ç§»åŠ¨æŸœå‘˜</string>
                <key>title</key>
-               <string>ÒÆ¶¯¹ñÔ±</string>
+               <string>ç§»åŠ¨æŸœå‘˜</string>
            </dict>
        </dict>
    </array>
